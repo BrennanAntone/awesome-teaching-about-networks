@@ -1,7 +1,7 @@
 # Awesome Teaching About Networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 >An [awesome](https://github.com/sindresorhus/awesome) curated list of
->resources for anyone interested in teaching about networks and related computational approaches
+>resources for anyone interested in teaching about networks and related computational approaches.
 > Inspired by [Awesome Network
 > Analysis](https://github.com/briatte/awesome-network-analysis) and others.
 
