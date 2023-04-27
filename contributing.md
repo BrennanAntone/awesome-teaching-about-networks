@@ -1,14 +1,10 @@
 # Contribution Guidelines
 
-Network Science crosses many disciplinary boundaries and
-a great variety of tools are used which are developed in diverse
-areas. Thus, material is scattered and not always accessible to all.
-The goal of this awesome list is to become a central place for resources that can help those interested in teaching network science and related fields.
+Network Science crosses many disciplinary boundaries and a great variety of tools are used which are developed in diverse areas. Thus, material is scattered and not always accessible to all. The goal of this awesome list is to become a central place for resources that can help those interested in teaching network science and related fields.
 
-Please contribute to the list by sending [pull
-requests](https://github.com/gesiscss/awesome-teaching-about-networks/pulls)
-or by fixing an
-[issue](https://github.com/gesiscss/awesome-teaching-about-networks/issues).
+Please contribute to the list by sending [pull requests](https://github.com/gesiscss/awesome-teaching-about-networks/pulls)
+or by fixing an [issue](https://github.com/gesiscss/awesome-teaching-about-networks/issues). The order of entries within categories is either alphabetically or chronologically.  
+**Please add your resources according to the respective ordering**
 Suggestions for new sections, or restructuring of sections are also welcome.
 If you are unfamiliar with Github, you can also email brennanantone@gmail.com
 
