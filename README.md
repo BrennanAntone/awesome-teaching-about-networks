@@ -11,7 +11,7 @@
 
 ## Contents
 
-- __[Resources about teaching] (#resources-about-teaching)__
+- __[Resources about teaching](#resources-about-teaching)__
 - __[Textbooks](#textbooks)__
 - __[Conferences](#conferences)__
 - __[Resources for use in teaching](#resources-for-use-in-teaching)__
