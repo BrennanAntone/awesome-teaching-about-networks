@@ -11,9 +11,10 @@
 
 ## Contents
 
+- __[Resources about teaching] (#resources-about-teaching)__
 - __[Textbooks](#textbooks)__
 - __[Conferences](#conferences)__
-- __[Resources](#resources)__
+- __[Resources for use in teaching](#resources-for-use-in-teaching)__
   - [Online courses and Material](#online-courses-and-material)
   - [Videos and Lectures](#videos-and-lectures)
   - [Workshops](#workshops)
@@ -28,6 +29,11 @@
 - __[Relevant Awesome Lists](#relevant-awesome-lists)__
 - __[Contributing](#contributing)__
 
+## Resources about teaching
+
+> Entries are ordered chronologically 
+
+-[Teaching social network analysis](https://doi.org/10.1016/j.ijme.2023.100816) paper by Ion Georgiou (2023)
 
 ## Textbooks
 
@@ -53,7 +59,7 @@
 - [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
 
 
-## Resources
+## Resources for use in teaching
 
 > Resources for teaching network science
 
