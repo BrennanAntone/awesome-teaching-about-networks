@@ -2,9 +2,9 @@
 
 >A compilation of resources for teaching about networks and related topics.
 >
->[Awesome](https://github.com/sindresorhus/awesome) are a format of curated lists of
+>The [Awesome project](https://github.com/sindresorhus/awesome) is a format of curated lists of
 >resources for anyone interested in special topics.
-> Inspired by [Awesome Network
+> This list is inspired by [Awesome Network
 > Analysis](https://github.com/briatte/awesome-network-analysis) and others.
 
 
