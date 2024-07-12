@@ -14,6 +14,10 @@
 
 ## Contents
 
+- __[Interactive Teaching Exercises](#interactive-teaching-exercises)__
+  - [Spotlighted teaching exercises](#spotlighted-teaching-exercises)
+  - [Other teaching exercises](#other-teaching-exercises)
+
 - __[Resources about teaching](#resources-about-teaching)__
 - __[Textbooks](#textbooks)__
 - __[Conferences](#conferences)__
@@ -32,60 +36,46 @@
 - __[Relevant Awesome Lists](#relevant-awesome-lists)__
 - __[Contributing](#contributing)__
 
-## Papers and Articles Discussing Teaching Approaches/Pedagogy
+# Interactive Teaching Exercises
+> Teaching about "network thinking" can be aided with sychronous or asynchronous teaching exercises that demonstrate applications of network analysis and prompt reflection around learners.
+> Below is a list of short-term activities that can be used in courses, professional workshops, etc.
+> Unless otherwise noted, all teaching exercises are available for free
+
+## Spotlighted Teaching Exercises
+
+## Other Teaching Exercises
+
+-----
+
+# Papers and Articles Discussing Teaching Approaches/Pedagogy
 
 > Entries are ordered chronologically 
 
 -[Teaching social network analysis](https://doi.org/10.1016/j.ijme.2023.100816) paper by Ion Georgiou (2023)
 
-## Textbooks
+-----
 
-> Entries are ordered chronologically
-
-- [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/), by David Easley and Jon Kleinberg (2010)
-- [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/), by Jae Yeon Kim (2023)
-
-## Resources for use in teaching
-
-> Resources for teaching network science
-
-
-
-
-### Videos and Lectures
-
-- [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI), by Renaud Lambiotte, University of Oxford (2018)
-- [Introduction to computational social science](https://youtu.be/EF7X9wwl0q4), by Matthew J. Salganik, Princeton University (2019)
-- [Python for Computational Social Science and Digital Humanities](https://youtu.be/T7qMZH25co0), by Christopher Cameron, Cornell University (2023)
-
-
-## Selected Papers
-
-> Important papers specific to teaching networks. Ordered chronologically.
-
-- [Computational Social Science and the Study of Political Communication](https://doi.org/10.1080/10584609.2020.1833121) by Yannis Theocharis and Andreas Jungherr (2020)
-- [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
-- [Machine Learning for Social Science: An Agnostic Approach](https://doi.org/10.1146/annurev-polisci-053119-015921) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2021)
-
-
-
-## Software
+# Software
 
 > There are three commonly used sets of software when teaching introductory network analysis - R packages, Python packages, and no-code solutions.
 
 
-### R
+## R
 
 - [Awesome R](https://github.com/qinwf/awesome-R) for general resources in R
 
 
-### Python
+## Python
 
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python)) for general resources in Python
+- [Python for Computational Social Science and Digital Humanities](https://youtu.be/T7qMZH25co0), by Christopher Cameron, Cornell University (2023)
 
-### No-Code Software
+## No-Code Software
 
-## Online Tutorials / Teaching Materials
+-----
+# Teaching Materials
+
+### Online Tutorials / Teaching Materials
 > See also the [Software](#software) section for material on software tools
 
 - [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
@@ -101,8 +91,27 @@
 - [Quanteda Tutorials for Quantitative Text Analysis in R](https://tutorials.quanteda.io)
 - [R Course Material for Communication Science](https://github.com/ccs-amsterdam/r-course-material)
 
+### Textbooks
+> Entries are ordered chronologically
 
-## Social Media / Email Digests
+- [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/), by David Easley and Jon Kleinberg (2010)
+- [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/), by Jae Yeon Kim (2023)
+
+### Videos and Lectures
+- [A gentle introduction to network science](https://www.youtube.com/watch?v=L6CqqlILBCI), by Renaud Lambiotte, University of Oxford (2018)
+- [Introduction to computational social science](https://youtu.be/EF7X9wwl0q4), by Matthew J. Salganik, Princeton University (2019)
+
+### Selected Readings
+> Important papers that provide a high-quality introduction to relevant topics. Ordered chronologically.
+
+- [Computational Social Science and the Study of Political Communication](https://doi.org/10.1080/10584609.2020.1833121) by Yannis Theocharis and Andreas Jungherr (2020)
+- [Computational Social Science and Sociology](https://doi.org/10.1146/annurev-soc-121919-054621) by Achim Edelmann, Tom Wolff, Danielle Montagne and Christopher A. Bail (2020)
+- [Machine Learning for Social Science: An Agnostic Approach](https://doi.org/10.1146/annurev-polisci-053119-015921) by Justin Grimmer, Margaret E. Roberts, and Brandon M. Stewart (2021)
+
+-----
+# Other Lists and Communities
+
+### Social Media / Email Digests
 
 - Facebook Group: [Teaching Social Networks](https://www.facebook.com/groups/293203241059192) 
 - Facebook Group: [Big Data & Networks](https://www.facebook.com/groups/925927650775110)
@@ -120,8 +129,8 @@
 - Subreddit: ["r/Network_Analysis"](https://www.reddit.com/r/Network_Analysis/)
 - Subreddit: ["r/networkscience"](https://www.reddit.com/r/networkscience/)
 
-## Relevant Awesome Lists
-Other well-curated Awesome Lists that may be relevant to network scientists.
+### Relevant Awesome Lists
+Other well-curated [Awesome Lists]((https://github.com/sindresorhus/awesome) that may be relevant to network scientists.
 
 - [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
 
@@ -137,8 +146,7 @@ Other well-curated Awesome Lists that may be relevant to network scientists.
 
 -----
 
-
-## Contributing
+# Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 You can suggest changes via Github, or just email brennanantone@gmail.com if that is easier.
