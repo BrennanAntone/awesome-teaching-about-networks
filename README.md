@@ -3,7 +3,8 @@
 >A compilation of resources for teaching about networks and related topics.
 >
 >The [Awesome project](https://github.com/sindresorhus/awesome) is a format of curated lists of
->resources for anyone interested in special topics.
+>resources for anyone interested in special topics. This format makes it easy for anyone to contribute
+>to resources by making pull requests in Github (or email brennanantone@gmail.com with suggestions).
 > This list is inspired by [Awesome Network
 > Analysis](https://github.com/briatte/awesome-network-analysis) and others.
 
@@ -31,7 +32,7 @@
 - __[Relevant Awesome Lists](#relevant-awesome-lists)__
 - __[Contributing](#contributing)__
 
-## Resources about teaching
+## Papers Discussing Teaching Approches
 
 > Entries are ordered chronologically 
 
@@ -43,23 +44,6 @@
 
 - [Networks, Crowds, and Markets: Reasoning About a Highly Connected World](https://www.cs.cornell.edu/home/kleinber/networks-book/), by David Easley and Jon Kleinberg (2010)
 - [Computational Thinking for Social Scientists](https://jaeyk.github.io/comp_thinking_social_science/), by Jae Yeon Kim (2023)
-
-
-## Conferences
-
-> Relevant conferences where the community (or parts thereof) meets
-
-- [BigSurv - Big Data Meets Survey Science](https://www.bigsurv.org/)
-- [CHI - ACM CHI Conference on Human Factors in Computing Systems](https://chi.acm.org/)
-- [Complex Networks - International Conference on Complex Networks and their Applications](https://www.complexnetworks.org/)
-- [COMPTEXT Conference](https://www.comptextconference.org/)
-- [Conference on Complex Systems](https://cssociety.org/events), in particular the Computational Social Science satellite
-- [CSCW - ACM Conference On Computer-Supported Cooperative Work](https://cscw.acm.org/)
-- [IC2S2 - The International Conference for Computational Social Science](http://ic2s2.org)
-- [ICA - Annual International Communication Association Conference](https://www.icahdq.org/) (Methods Division)
-- [ICWSM - International AAAI Conference on Web and Social Media](https://www.icwsm.org/)
-- [NetSci - International Conference on Network Science](https://netscisociety.net/events/netsci/)
-
 
 ## Resources for use in teaching
 
@@ -154,25 +138,6 @@ Koç University, TUR
 - [BS in Social Data Analytics](https://soda.la.psu.edu/programs/undergraduate/), Pennsylvania State University, USA
 - [BS in Computational Social Science](https://www.dins.pitt.edu/academics/bs-computational-social-science), University of Pittsburgh, USA
 
-## Journals
-
-> Ordered alphabetically
-
-- [Big Data & Society](https://journals.sagepub.com/home/bds)
-- [Computational Communication Research](https://computationalcommunication.org/ccr)
-- [Computational Economics](https://www.springer.com/journal/10614)
-- [EPJ Data Science](https://epjdatascience.springeropen.com/)
-- [Frontiers in Big Data](https://www.frontiersin.org/journals/big-data)
-- [Information, Communication & Society](https://www.tandfonline.com/journals/rics20)
-- [Journal of Artificial Societies and Social Simulation](https://www.jasss.org/JASSS.html)
-- [Journal of Computational Social Science](https://www.springer.com/journal/42001)
-- [Journal of Quantitative Description: Digital Media](https://journalqd.org)
-- [Journal of Social Computing](https://www.sciopen.com/journal/2688-5255)
-- [Nature Human Behavior](https://www.nature.com/nathumbehav/)
-- [New Media & Society](https://journals.sagepub.com/home/nms)
-- [Social Media and Society](https://journals.sagepub.com/home/sms)
-- [Social Science Computer Review](https://journals.sagepub.com/home/ssc)
-
 
 ## Selected Papers
 
@@ -186,8 +151,7 @@ Koç University, TUR
 
 ## Software
 
-> Focus on accessible introduction into computational tools, preferably open
-> source material
+> There are three commonly used sets of software when teaching introductory network analysis - R packages, Python packages, and no-code solutions.
 
 
 ### R
@@ -199,6 +163,8 @@ Koç University, TUR
 
 - [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python)) for general resources in Python
 
+### No-Code Software
+
 
 ### Tutorials
 
@@ -209,9 +175,11 @@ Koç University, TUR
 - [R Course Material for Communication Science](https://github.com/ccs-amsterdam/r-course-material)
 
 
-## Miscellaneous
+## Social Media / Email Digests
 
 > Resources that do not fit into other categories
+
+Facebook group: [Teaching Social Networks](https://www.facebook.com/groups/293203241059192) 
 
 - [Google Group Computational Social Science Network](https://groups.google.com/g/CSSNET)
 - [RatSWD publication "Big data in social, behavioural, and economic sciences: Data access and research data management (Including an expert opinion on "Web scraping in independent academic research")"](https://www.konsortswd.de/en/latest/publication/big-data-in-social-behavioural-and-economic-sciences-data-access-and-research-data-management/)
@@ -219,29 +187,19 @@ Koç University, TUR
 
 
 ## Relevant Awesome Lists
+Other well-curated Awesome Lists that may be relevant to network scientists.
 
-- [Awesome Causality](https://github.com/napsternxg/awesome-causality)
-- [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
-- [Awesome Computational Social Science](https://github.com/gesiscss/awesome-computational-social-science)
-- [Awesome Data Science with Python](https://github.com/r0f1/datascience) ([another](https://github.com/krzjoa/awesome-python-data-science))
-- [Awesome Data Science](https://github.com/academic/awesome-datascience)
-- [Awesome Data Visualization](https://github.com/javierluraschi/awesome-dataviz)
-- [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
-- [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities)
-- [Awesome Julia](https://github.com/greister/Awesome-Julia)
-- [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
-- [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
-- [Awesome MySQL](https://github.com/shlomi-noach/awesome-mysql)
 - [Awesome Network Analysis](https://github.com/briatte/awesome-network-analysis)
-- [Awesome NLP](https://github.com/keon/awesome-nlp) ([another one](https://github.com/edobashira/speech-language-processing))
-- [Awesome Notebooks](https://github.com/jupyter-naas/awesome-notebooks)
-- [Awesome Open Science](https://github.com/silky/awesome-open-science)
-- [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))
-- [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)
-- [Awesome R](https://github.com/qinwf/awesome-R)
-- [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries)
-- [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)
 
+|    |           |   |
+|----------|:-------------:|------:|
+| [Awesome Causality](https://github.com/napsternxg/awesome-causality) | [Awesome Digital Humanities](https://github.com/dh-tech/awesome-digital-humanities) | [Awesome Quarto](https://github.com/mcanouil/awesome-quarto)  |
+| [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) | [Awesome Julia](https://github.com/greister/Awesome-Julia)  | [Awesome R](https://github.com/qinwf/awesome-R)  |
+| [Awesome Computational Social Science](https://github.com/gesiscss/awesome-computational-social-science) | [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) | [Awesome Research Software Registries](https://github.com/NLeSC/awesome-research-software-registries) |
+| [Awesome Data Science with Python](https://github.com/r0f1/datascience) ([another](https://github.com/krzjoa/awesome-python-data-science)) | [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)  | [Awesome NLP](https://github.com/keon/awesome-nlp) ([another one](https://github.com/edobashira/speech-language-processing))  |
+| [Awesome Data Science](https://github.com/academic/awesome-datascience) | [Awesome Notebooks](https://github.com/jupyter-naas/awesome-notebooks)  | [Awesome Scholarly Data Analysis](https://github.com/napsternxg/awesome-scholarly-data-analysis)  |
+| [Awesome Data Visualization](https://github.com/javierluraschi/awesome-dataviz) | [Awesome Open Science](https://github.com/silky/awesome-open-science)  |  |
+| [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)| [Awesome Python](https://github.com/vinta/awesome-python) (other lists: [1](https://github.com/kirang89/pycrumbs), [2](https://github.com/svaksha/pythonidae), [3](https://github.com/trekhleb/learn-python))  |  |
 
 -----
 
@@ -249,5 +207,5 @@ Koç University, TUR
 ## Contributing
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
+You can suggest changes via Github, or just email brennanantone@gmail.com if that is easier.
 
