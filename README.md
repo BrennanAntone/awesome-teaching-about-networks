@@ -1,39 +1,34 @@
-# Awesome Teaching About Networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Teaching About Networks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
->A compilation of resources for teaching about networks and related topics.
+A compilation of resources for teaching about network science, social network analysis, and related topics:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***teaching exercises***, ***research on teaching pedagogy***, ***software***, ***teaching materials***, and ***online communities***.
+>
+> This list was created to expand upon [2023](https://docs.google.com/document/d/1qp12aOCb77rLtb8pYORjAGx9pVWCLjJ3CHvRLubnjIs/edit?usp=sharing)/[2024](https://docs.google.com/document/d/1_44G5to8eQKu7ZE0nDcPPgzlfS9XMAQ7UW2wJZlBqhc/edit?usp=sharing) INSNA Sunbelt tutorials developed by Brennan Antone, Noshir Contractor, Kyosuke Tanaka, Y. Jasmine Wu, and Vsevolod Suschevskiy.
 >
 >The [Awesome project](https://github.com/sindresorhus/awesome) is a format of curated lists of
 >resources for anyone interested in special topics. This format makes it easy for anyone to contribute
 >to resources by making pull requests in Github (or email brennanantone@gmail.com with suggestions).
-> This list is inspired by [Awesome Network
-> Analysis](https://github.com/briatte/awesome-network-analysis) and others.
-
 
 ![](logo.png)
-
 
 ## Contents
 
 - __[Interactive Teaching Exercises](#interactive-teaching-exercises)__
   - [Spotlighted teaching exercises](#spotlighted-teaching-exercises)
   - [Other teaching exercises](#other-teaching-exercises)
-
-- __[Resources about teaching](#resources-about-teaching)__
-- __[Textbooks](#textbooks)__
-- __[Conferences](#conferences)__
-- __[Resources for use in teaching](#resources-for-use-in-teaching)__
-  - [Online courses and Material](#online-courses-and-material)
-  - [Videos and Lectures](#videos-and-lectures)
-  - [Workshops](#workshops)
-  - [University Course Programs](#university-course-programs)
-- __[Journals](#journals)__
-- __[Selected Papers](#selected-papers)__
-- __[Software](#software)__
-  - [R](#R)
+- __[Resources on Teaching Approaches/Pedagogy](#resources-on-teaching-approaches)__
+- __[Networks Software](#networks-software)__
+  - [R](#r)
   - [Python](#python)
-  - [Tutorials](#tutorials)
-- __[Miscellaneous](#miscellaneous)__
-- __[Relevant Awesome Lists](#relevant-awesome-lists)__
+  - [No-Code Software](#no-code-software)
+- __[Teaching Materials](#teaching-materials)__
+  - [Online Tutorial/Materials](#online-tutorial-materials)
+  - [Textbooks](#textbooks)
+  - [Videos and Lectures](#videos-and-lectures)
+  - [Selected Readings](#selected-readings)
+- __[Other Lists and Communities](#other-lists-and-communities)__
+  - [Social Media and Listservs](#social-media-and-listservs)
+  - [Relevant Awesome Lists](#relevant-awesome-lists)
 - __[Contributing](#contributing)__
 
 # Interactive Teaching Exercises
@@ -47,7 +42,7 @@
 
 -----
 
-# Papers and Articles Discussing Teaching Approaches/Pedagogy
+# Resources on Teaching Approaches
 
 > Entries are ordered chronologically 
 
@@ -55,7 +50,7 @@
 
 -----
 
-# Software
+# Networks Software
 
 > There are three commonly used sets of software when teaching introductory network analysis - R packages, Python packages, and no-code solutions.
 
@@ -75,7 +70,7 @@
 -----
 # Teaching Materials
 
-### Online Tutorials / Teaching Materials
+### Online Tutorial Materials
 > See also the [Software](#software) section for material on software tools
 
 - [CSC2552 Topics in Computational Social Science: AI, Data, and Society](https://www.cs.toronto.edu/~ashton/csc2552) - Seminar course taught by Ashton Anderson at the University of Toronto, Canada. 
@@ -111,7 +106,7 @@
 -----
 # Other Lists and Communities
 
-### Social Media / Email Digests
+### Social Media and Listservs
 
 - Facebook Group: [Teaching Social Networks](https://www.facebook.com/groups/293203241059192) 
 - Facebook Group: [Big Data & Networks](https://www.facebook.com/groups/925927650775110)
